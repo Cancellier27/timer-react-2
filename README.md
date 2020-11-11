@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center" >
+    <h1 align="center" >I'm working on it</h1> 
+</h1>
+<h3 align="center" >
+    <img alt="Logo" title="#logo" width="350px" src=".github/LOADING.gif">
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/filipe-cancellier-da-costa-8459ab160/">
+    <img alt="Made by Filipe" src="https://img.shields.io/badge/made%20by-Filipe-brightgreen">
+  </a>
 
-## Available Scripts
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-brightgreen">
 
-In the project directory, you can run:
+  <img alt="Web" src="https://img.shields.io/badge/web-React-blue">
 
-### `yarn start`
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :computer: Web
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h1 align="center">
+    <img alt="Web" src=".github/appImage.png" width="650px">
+</h1>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :bookmark: About
 
-### `yarn build`
+My first webpage created with React.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :rocket: Tech Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project was made with the following technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
 
-### `yarn eject`
+## :fire: How to
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- ### **Requirements**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - It's **necessary** **[Node.js](https://nodejs.org/en/)**
+  - You, **need** a package manager like **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Clone the repo :
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```sh
+  $ git clone https://github.com/Cancellier27/FilipeSite
+```
 
-## Learn More
+2. Execute the app:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+  # Install de dependencies
+  $ yarn install
+  $ yarn start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## :mailbox_with_mail: Get in touch!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://filipe-site.now.sh/" target="_blank" >
+  <img alt="Website - Filipe" src="https://img.shields.io/badge/Website--%23F8952D?style=social">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/filipe-cancellier-da-costa-8459ab160/" target="_blank" >
+  <img alt="Linkedin - Filipe" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:filipecancelliercosta@gmail.com" target="_blank" >
+  <img alt="Email - Filipe" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> -->
