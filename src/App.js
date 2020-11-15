@@ -2,10 +2,15 @@ import React, { useState } from 'react'
 import './App.css';
 
 function App() {
-  const [hourInput, setHourInput] = useState('00')
-  const [minuteInput, setMinuteInput] = useState('00')
-  const [secondInput, setSecondInput] = useState('00')
+  const [hourInput, setHourInput] = useState(0)
+  const [minuteInput, setMinuteInput] = useState(0)
+  const [secondInput, setSecondInput] = useState(0)
   const [isHidden, setIsHidden] = useState(true)
+
+  function showTimeWithZeros(State) {
+    if (State === '') State = 0
+    return State >= 0 && State <= 9 ? `0${State}` : State
+  }
 
   function handleStart() {
     setIsHidden(false)
@@ -13,6 +18,10 @@ function App() {
 
   function handleRestart() {
     setIsHidden(true)
+  }
+
+  function clockLogic() {
+
   }
   
   return (
@@ -32,7 +41,7 @@ function App() {
 
       )} */}
               <div className="screenContainer">
-          <span>{`${hourInput}:${minuteInput}:${secondInput}`}</span>
+          <span>{`${showTimeWithZeros(hourInput)}:${showTimeWithZeros(minuteInput)}:${showTimeWithZeros(secondInput)}`}</span>
         </div>
 
       <div className="btnContainer">
